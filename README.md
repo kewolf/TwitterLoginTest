@@ -20,6 +20,10 @@ This small project creates a meteor app that allows users to login to their Twit
   For the Callback URL: http://127.0.0.1:3000/_oauth/twitter
   
   Make sure 'Allow this application to be used to Sign in with Twitter' is checked
+  
+  Going into the 'Permissions' tab you can choose different what type of access your app needs.
+  
+  Select from 'Read Only', 'Read and Write', and 'Read, Write, and Access direct messages'.
 
 
 4. Create a settings.json file in the main folder that contains the following:
