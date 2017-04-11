@@ -1,5 +1,9 @@
 # TwitterLoginTest
 
+This small project creates a meteor app that allows users to login to their Twitter Account.
+
+
+
 1. Clone the repository.
 
 
